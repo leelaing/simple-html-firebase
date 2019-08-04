@@ -1,0 +1,21 @@
+{
+  "name": "simple-html-firebase",
+  "version": "0.1.0",
+  "description": "Simple Website with Firebase",
+  "main": "/scripts/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leelaing/simple-html-firebase.git"
+  },
+  "author": "Lee Laing <big2tiny@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leelaing/simple-html-firebase/issues"
+  },
+  "homepage": "https://github.com/leelaing/simple-html-firebase#readme"
+}
